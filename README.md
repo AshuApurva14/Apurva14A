@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am Ashutosh Apurva.I'm currently working on Cloud , Infrastructure Automation, Building CI/CD Pipeline and lot more things as a cloud engineer.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apurva14A&show_icons=true&theme=radical)
 <!--
 **Apurva14A/Apurva14A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
