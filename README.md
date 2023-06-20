@@ -1,6 +1,6 @@
 ## Hi I'm Ashutosh 👋
 
-I'm currently working as a Cloud DevOps Engineer at Tata Consultancy Services. I like doing stuff such as Infrastructure Automation, Building CI/CD pipelines, and a lot more things as a Cloud DevOps engineer.
+I'm currently working as a Cloud DevOps Engineer at Tata Consultancy Services. I like doing stuff such as Infrastructure Automation, Building CI/CD pipelines, and a lot more things on the cloud, DevOps.
 
    . Cloud DevOps Engineer @Tata Consultancy Services
    
