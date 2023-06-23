@@ -5,7 +5,9 @@
 </div>
 
 
-<h3 align="center">A Cloud DevOps Engineer, who loves to play around Cloud and DevOps and would love to work as SRE in the future.</h3>
+<h3 align="center">A Cloud DevOps Engineer, who loves to play around with Cloud and DevOps and would love to work as SRE in the future.</h3>
+
+<img align="right" alt="coding" width="400" src="https://github.com/Apurva14A/Apurva14A/blob/a4657e08bd119946d95b00d3116e1806a7094bc8/sre.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurva14a&label=Profile%20views&color=0e75b6&style=flat" alt="apurva14a" /> </p>
 
