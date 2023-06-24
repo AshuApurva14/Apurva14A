@@ -26,6 +26,7 @@
 - 💬 Ask me about **Terraform,Python**
 
 - 📫 How to reach me **apooorva01@gmail.com**
+-  📄 Know about my experiences [https://github.com/Apurva14A/Apurva14A/blob/9d32f53c49c944b23d8c40a4149e70cea0f63c9b/Ashutosh's%20Resume%20(3).pdf](https://github.com/Apurva14A/Apurva14A/blob/9d32f53c49c944b23d8c40a4149e70cea0f63c9b/Ashutosh's%20Resume%20(3).pdf)
 
 - ⚡ Fun fact **I am a fitness lover and athlete.**
 
