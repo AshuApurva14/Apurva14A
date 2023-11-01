@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Apurva</h1>
 
 <div align="center">
-  <img src="https://github.com/Apurva14A/Apurva14A/blob/4a6a08a5bebc43e9b608490aeb141cf046d4d382/106533180.jpeg" alt="Banner" width="400px">
+  <img src="https://github.com/Apurva14A/Apurva14A/blob/7d1abea358df5cb4ed26945c9b7c5da4e1543819/IMG_20230812_200843%20(1)-min.jpg" alt="Banner" width="400px">
 </div>
 
 
