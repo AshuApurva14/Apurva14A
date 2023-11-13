@@ -5,7 +5,7 @@
 </div>
 
 
-<h3 align="center">I'm a Site Reliability Enginee. Professionally making an application reliable 24*7 for my clients and organisation.Also, love to play around with commands.</h3>
+<h3 align="center">I'm a Site Reliability Engineer. Professionally making an application reliable 24*7 for my clients and organisation.Also, love to play around with commands.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Apurva14A/Apurva14A/blob/a4657e08bd119946d95b00d3116e1806a7094bc8/sre.png">
 
